@@ -37,9 +37,6 @@ I'm a Graphic Designer and Developer. I'll try my best to learn new technologies
 <a href="https://www.facebook.com/https://www.facebook.com/g.eduardo.martinez.zaragoza"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
 
 ## 🏆 GitHub Trophies
 
