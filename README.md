@@ -7,7 +7,7 @@ I'm a Graphic Designer and Developer. I'll try my best to learn new technologies
 
 
 ## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on Nostru Incantu</p>
+<p>🔭 I'm currently working on Nostru Incantu and a lot of other projects</p>
 <p>🌱 I'm currently learning python and angular</p>
 <p>📫 How to reach me? zamzery@protonmail.com</p>
 <p>I regularly write articles on <a href="https://eduardomartinez.com.mx">https://github.com/zamzery</a></p>
