@@ -41,5 +41,3 @@ I'm a Graphic Designer and Developer. I'll try my best to learn new technologies
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=zamzery">
 </p>
-
-## 📊 Github Status
