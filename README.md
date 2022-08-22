@@ -39,5 +39,7 @@ I'm a Graphic Designer and Developer. I'll try my best to learn new technologies
 
 ## 🏆 GitHub Trophies
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 <p><img src="https://github-profile-trophy.vercel.app/?username=zamzery">
 </p>
