@@ -11,7 +11,6 @@ I'm a Graphic Designer and Developer. I'll try my best to learn new technologies
 <p>🌱 I'm currently learning python and angular</p>
 <p>📫 How to reach me? zamzery@protonmail.com</p>
 <p>I regularly write articles on <a href="https://eduardomartinez.com.mx">https://github.com/zamzery</a></p>
-<p>Know about my experiences <a href="https://www.linkedin.com/in/eduardo-martinez-zaragoza-975103a2/">here</a></p>
 
 ## 💻 Skills
 <p>
